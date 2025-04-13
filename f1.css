@@ -1,0 +1,105 @@
+
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 60px;
+    background-image: url(https://wallpapers.com/images/hd/formula-one-9a7kk3d1hq1ek88h.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+    scale: 40px;
+}
+
+header {
+    background-color: #282c34;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+    background-color: rgb(11, 48, 211);
+    padding: 10px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+  
+}
+header img{
+    height: 30px;   
+}
+
+.logo-fia img,
+.logo-f1 img {
+    max-width: 100px;
+}
+
+.titulo-f1 h1 {
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+.titulo-f1 h5 {
+    font-size: 14px;
+    margin: 0;
+}
+
+h2 {
+    color: #14a1f3;
+    margin-top: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+table th,
+table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+table th {
+    background-color: rgb(11, 48, 211);
+    color: white;
+}
+
+table tr {
+    background-color: #f2f2f2;
+}
+
+table tr:hover {
+    background-color: #ddd;
+}
+
+.logo-marca {
+    width: 50px;
+}
+
+.pontos {
+    background-color: #ffffff;
+}
+
+.ptspiloto th,
+.spe th {
+    background-color: #007bff;
+    color: white;
+}
+
+.ptspiloto,
+.spe {
+    margin: 20px 0;
+}
+
+.parceriaformula1 {
+    display: block;
+    margin: 20px auto;
+    max-width: 300px;
+}
